@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 ## Dynamic Programming
 |  |
@@ -26,5 +27,14 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

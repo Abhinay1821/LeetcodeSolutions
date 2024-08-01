@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

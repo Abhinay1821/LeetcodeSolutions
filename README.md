@@ -8,6 +8,7 @@
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -52,8 +54,13 @@
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->

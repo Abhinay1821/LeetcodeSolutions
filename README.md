@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Monotonic Stack
 |  |

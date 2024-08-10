@@ -11,6 +11,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +69,9 @@
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+## Greedy
+|  |
+| ------- |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 <!---LeetCode Topics End-->

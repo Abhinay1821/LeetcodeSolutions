@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
@@ -102,5 +103,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void comb(vector<int>&cand,int sum, int target,int index,vector<vector<int>>&ans,vector<int>temp){
+    void comb(vector<int>&cand,int sum, int target,int index,vector<vector<int>>&ans,vector<int>&temp){
         if(sum==target){
             ans.push_back(temp);
             return;

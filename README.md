@@ -9,6 +9,7 @@
 | [0216-combination-sum-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Tree
 |  |

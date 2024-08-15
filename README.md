@@ -111,4 +111,16 @@
 | [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->

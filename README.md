@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0216-combination-sum-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
@@ -22,6 +23,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -81,6 +83,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Tree

@@ -45,6 +45,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Binary Search
 |  |
 | ------- |

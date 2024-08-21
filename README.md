@@ -20,6 +20,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Binary Indexed Tree
 |  |
 | ------- |

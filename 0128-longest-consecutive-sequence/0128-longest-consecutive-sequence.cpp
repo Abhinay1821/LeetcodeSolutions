@@ -3,7 +3,6 @@ public:
     int longestConsecutive(vector<int>& nums) {
         priority_queue<int>pq;
         unordered_map<int,int>umap;
-        if(nums.size()==0) return 0;
         for(int i=0;i<nums.size();i++){
             if(umap.find(nums[i])==umap.end()){
                 pq.push(nums[i]);
@@ -12,10 +11,10 @@ public:
         }
         int res=0;
         int ans=1;
-        int curr = pq.top();
-        pq.pop();
+        int curr;
         while(!pq.empty()){
-            cout<<pq.top()<<endl;
+            curr=pq.top();
+            pq.pop();
             if(pq.top()+1==curr){
                 ans++;
             }
@@ -23,9 +22,7 @@ public:
                 res=max(ans,res);
                 ans=1;
             }
-            curr=pq.top();
-            pq.pop();
         }
-        return max(res,ans);
+        return res;
     }
 };

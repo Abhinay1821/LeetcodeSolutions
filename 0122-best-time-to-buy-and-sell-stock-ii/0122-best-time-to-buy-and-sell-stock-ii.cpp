@@ -10,7 +10,7 @@ public:
             if(dp[index][0]!=-1) return dp[index][0];
             return dp[index][0] = max(cal(prices,1,index+1,dp)+prices[index],cal(prices,-1,index+1,dp));
         }
-        return 0;
+        // return 0;
     }
     int maxProfit(vector<int>& prices) {
         int n=prices.size();

@@ -39,6 +39,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -50,12 +51,14 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |

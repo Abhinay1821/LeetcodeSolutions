@@ -62,6 +62,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -77,6 +78,7 @@
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0056-merge-intervals](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->

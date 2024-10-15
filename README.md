@@ -25,6 +25,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -53,6 +54,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## String
@@ -79,6 +81,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window

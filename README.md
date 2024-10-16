@@ -138,6 +138,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
+| [0904-leaf-similar-trees](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |

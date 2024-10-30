@@ -11,21 +11,19 @@
  *     }
  * }
  */
-
-function dfs(root: TreeNode|null,count:number[],value:number):void{
-    if(root===null){
-        return;
-    }
-    if(root.val>=value){
+function dfs(root:TreeNode,count:number [],maxi:number): void{
+    if(root === null) return;
+    if(root.val>=maxi){
         count[0]++;
-        value=root.val;
+        maxi = root.val;
     }
-    dfs(root.left,count,value);
-    dfs(root.right,count,value);
+    dfs(root.left,count,maxi)
+    dfs(root.right,count,maxi)
 }
+
 function goodNodes(root: TreeNode | null): number {
-    let count = [0];
-    let value = -100001;
-    dfs(root,count,value);
+    const count = [0];
+    let maxi = -10000000;
+    dfs(root,count,maxi);
     return count[0];
 };

@@ -61,6 +61,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## String
 |  |
@@ -206,6 +207,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
@@ -200,4 +201,12 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

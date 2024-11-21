@@ -206,6 +206,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0092-reverse-linked-list-ii) |
 | [0328-odd-even-linked-list](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -213,4 +214,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->

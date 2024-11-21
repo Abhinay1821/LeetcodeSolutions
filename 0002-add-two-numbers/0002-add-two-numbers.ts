@@ -13,35 +13,30 @@
 function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
     let head1 = l1;
     let head2 = l2;
-    let dummy  = new ListNode(0);
-    let tail = dummy;
+    let node = new ListNode(0);
+    let dummy = node;
     let carry = 0;
     while(l1!==null || l2!==null){
-        let val,insert;
-        if(l1 !==null && l2!==null){
-            val = (l1.val + l2.val + carry);
+        let value;
+        if(l1!==null && l2!==null){
+            value = (l1.val + l2.val + carry);
             l1=l1.next;
             l2=l2.next;
         }
-        else if(l1!==null && l2===null){
-            val = (l1.val + carry);
-            l1=l1.next;
+        else if(l1===null && l2!==null){
+            value = ( l2.val + carry);
+            l2=l2.next;
         }
         else{
-            val = l2.val + carry;
-            l2=l2.next;
+            value = l1.val + carry;
+            l1=l1.next;
         }
-        insert = val % 10;
-        carry = Math.floor(val / 10);
-        let temp = new ListNode(insert);
-        tail.next = temp;
-        tail = tail.next
+        node.next = new ListNode((value%10));
+        carry = Math.floor(Math.floor(value / 10));
+        node = node.next;
     }
     if(carry){
-        let temp = new ListNode(1);
-        tail.next = temp;
+        node.next = new ListNode(1);
     }
-    let ans = dummy.next;
-    // delete dummy;
-    return ans;
+    return dummy.next;
 };

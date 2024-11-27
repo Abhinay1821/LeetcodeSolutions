@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |

@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
@@ -88,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |

@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -218,4 +220,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

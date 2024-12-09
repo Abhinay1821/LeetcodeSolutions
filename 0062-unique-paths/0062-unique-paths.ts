@@ -1,15 +1,13 @@
 function uniquePaths(m: number, n: number): number {
-    const dp = Array(m).fill(0).map(()=>Array(n).fill(0));
-    for(let i=0;i<m;i++){
-        dp[i][0]=1;
-    }
-    for(let i=0;i<n;i++){
-        dp[0][i]=1;
-    }
+    let prev = Array(n).fill(1)
+    let curr = Array(n).fill(1);
     for(let i=1;i<m;i++){
         for(let j=1;j<n;j++){
-            dp[i][j] = dp[i-1][j] + dp[i][j-1]
+            curr[j] = curr[j-1] + prev[j];
         }
+        let temp = prev;
+        prev = curr;
+        curr = temp;
     }
-    return dp[m-1][n-1];
+    return prev[n-1];
 };

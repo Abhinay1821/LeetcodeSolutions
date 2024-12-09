@@ -44,6 +44,7 @@
 | [0045-jump-game-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Sorting
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

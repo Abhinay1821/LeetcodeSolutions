@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -47,6 +48,7 @@
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -249,4 +251,5 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->

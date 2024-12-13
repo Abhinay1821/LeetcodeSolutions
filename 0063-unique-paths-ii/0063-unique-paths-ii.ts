@@ -3,7 +3,7 @@ function uniquePathsWithObstacles(obstacleGrid: number[][]): number {
     const n = obstacleGrid[0].length;
     const dp = Array(m).fill(0).map(()=>Array(n).fill(0));
 
-    if(obstacleGrid[0][0]===1) return 0;
+    // if(obstacleGrid[0][0]===1) return 0;
     for(let i=0;i<m;i++){
         if(obstacleGrid[i][0]!==1)dp[i][0]=1;
         else break;

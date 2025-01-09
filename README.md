@@ -26,6 +26,7 @@
 | [0216-combination-sum-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -56,6 +57,7 @@
 | [0198-house-robber](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1250-longest-common-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -159,6 +161,7 @@
 | [0055-jump-game](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0134-gas-station) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |

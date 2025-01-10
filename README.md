@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0198-house-robber) |
@@ -273,5 +274,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

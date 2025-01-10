@@ -112,6 +112,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 ## Binary Tree
 |  |
@@ -262,4 +265,8 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->

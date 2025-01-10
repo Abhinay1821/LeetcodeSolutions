@@ -55,6 +55,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -269,4 +270,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

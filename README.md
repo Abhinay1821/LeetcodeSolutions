@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0937-online-stock-span) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0937-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |

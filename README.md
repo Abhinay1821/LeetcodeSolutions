@@ -44,6 +44,7 @@
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3525-maximum-energy-boost-from-two-drinks) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Tree
 |  |
 | ------- |
@@ -240,6 +245,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Union Find
 |  |
 | ------- |

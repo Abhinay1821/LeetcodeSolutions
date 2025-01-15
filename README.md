@@ -231,6 +231,7 @@
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,11 +239,13 @@
 | [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -16,8 +16,16 @@ function minReorder(n: number, connections: number[][]): number {
     const size = connections.length
     for (let i = 0; i < size; i++) {
         const [val0, val1] = connections[i];
-        map.set(val0, (map.get(val0) || []).concat([[val1, 0]]));
-        map.set(val1, (map.get(val1) || []).concat([[val0, 1]]));
+
+        if (!map.has(val0)) {
+            map.set(val0, []);
+        }
+        map.get(val0).push([val1, 0]);
+
+        if (!map.has(val1)) {
+            map.set(val1, []);
+        }
+        map.get(val1).push([val0, 1]);
     }
     let ans = [0];
     dfs(map, visited, 0, ans);

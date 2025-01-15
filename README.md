@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -234,11 +235,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 ## Prefix Sum
 |  |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Counting
 |  |
 | ------- |

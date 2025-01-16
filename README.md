@@ -39,6 +39,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -240,6 +241,7 @@
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Graph
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Ordered Set
 |  |
 | ------- |

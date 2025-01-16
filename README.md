@@ -32,6 +32,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
+| [1036-rotting-oranges](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1511-count-number-of-teams](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -239,6 +240,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Ordered Set
 |  |

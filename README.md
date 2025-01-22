@@ -30,6 +30,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0890-lemonade-change) |
 | [0926-find-and-replace-pattern](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1036-rotting-oranges](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1036-rotting-oranges) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |

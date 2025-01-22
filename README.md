@@ -40,6 +40,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2636-maximum-subsequence-score](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/2636-maximum-subsequence-score) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Abhinay1821/LeetcodeSolutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Union Find
 |  |
